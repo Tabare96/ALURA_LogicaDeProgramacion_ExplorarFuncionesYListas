@@ -1,6 +1,4 @@
-console.log("Juego del número secreto");
-
-/*let numeroMaximo = 10;
+let numeroMaximo = 10;
 let intentos = 0;
 let listaNumerosSorteados = [];
 let numeroSecreto = generarNumeroSecreto();
@@ -76,4 +74,4 @@ function reiniciarJuego() {
     limpiarCaja();
     condicionesIniciales();
     document.querySelector("#reiniciar").setAttribute("disabled", "true");
-}*/
+}
